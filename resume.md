@@ -12,7 +12,7 @@
 
 ## Education
 
-### Statistics and Data Science MicroMasters - MIT via edX <span>Expected Dec. 2023</span>
+### Statistics and Data Science MicroMasters - MIT via edX <span>Dec. 2023</span>
 
 - PyTorch | Neural Networks | Natural Language Processing | Statistical Inference | High Dimensional Analysis
 
@@ -42,12 +42,13 @@
 
 ### Optum, Generative AI Analyst <span>Jul. 2023 - Present</span>
 
-- Engineered a large language model to perform complex data analysis by generating and runningSQL queries and Python code
-- Implemented a retrieval-augmented generation pattern to inject business segment-specific metadata and definitions
-- Tested generative artificial intelligence output for veracity, quality, and safety
-- Developed a conversational Azure bot in JavaScript, deployed in a cloud environment
-- Evaluated various time series models on forecast error and anomaly detection rates for key performance indicators
-- Authored press release materials, documentation, and delivered presentations to stakeholders
+- Engineer a large language model to perform complex analysis by generating and executing SQL and Python
+- Implement a retrieval-augmented generation pattern to inject business segment-specific metadata and definitions
+- Analyze high dimensional text embedding with dimension reduction techniques to improve semantic comparisons
+- Test generative artificial intelligence output for veracity, quality, and safety
+- Develop a conversational Azure bot in JavaScript, deployed in a cloud environment
+- Evaluate various time series models on forecast error and anomaly detection rates for key performance indicators
+- Author press release materials, documentation, and delivered presentations to stakeholders
 
 ### Constelleum LLC, Software Developer <span>Mar. 2020 - Jul. 2023</span>
 
