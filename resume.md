@@ -48,7 +48,7 @@
 - Test generative artificial intelligence output for veracity, quality, and safety
 - Develop a conversational Azure bot in JavaScript, deployed in a cloud environment
 - Evaluate various time series models on forecast error and anomaly detection rates for key performance indicators
-- Author press release materials, documentation, and delivered presentations to stakeholders
+- Author press release materials, documentation, and deliver presentations to stakeholders
 
 ### Constelleum LLC, Software Developer <span>Mar. 2020 - Jul. 2023</span>
 
