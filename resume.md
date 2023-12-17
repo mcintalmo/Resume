@@ -65,4 +65,4 @@
 ### Job Coach, Stevens County DAC <span>Oct. 2021 - Jan. 2022</span>
 
 - Coached 30+ individuals on job expectations and responsibilities
-- Organized and led customized enrichment activities for accessibility services recipients
+- Organized and led customized enrichment activities for accessibility service recipients
