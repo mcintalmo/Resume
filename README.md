@@ -9,7 +9,7 @@
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/mcintalmo/)
-- [Personal Email](mailto:mcintalmo@gmail.com)
+- [Email](mailto:mcintalmo@gmail.com)
 
 
 ## Certificates
