@@ -2,8 +2,9 @@ name: Build PDF on Markdown Commit
 
 on:
   push:
-    paths:
-      - resume.md
+    paths: 
+        []
+#       - resume.md
 
 jobs:
   run-python-script:
