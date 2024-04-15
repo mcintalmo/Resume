@@ -2,7 +2,7 @@
 # Alexander McIntosh
 
 <!-- Contact -->
-- [alexander_mcintosh@optum.com](mailto:alexander_mcintosh@optum.com)
+- [mcintalmo@gmail.com](mailto:mcintalmo@gmail.com)
 - [github.com/mcintalmo](https://www.github.com/mcintalmo)
 - [linkedin.com/in/mcintalmo](https://www.linkedin.com/in/mcintalmo)
 - Minneapolis, MN
@@ -14,7 +14,7 @@
 
 ### Statistics and Data Science MicroMasters - MIT via edX <span>Dec. 2023</span>
 
-- PyTorch | Neural Networks | Natural Language Processing | Statistical Inference | High Dimensional Analysis
+- PyTorch | Deep Neural Networks | Natural Language Processing | High Dimension Analysis | Simulation
 
 ### Bachelor of Arts in Physics - Saint John’s University - Collegeville, MN <span>Dec. 2021</span>
 
@@ -24,45 +24,44 @@
 
 ### SQL for Data Science Specialization - University of California, Davis via Coursera <span>Feb. 2023</span>
 
-- SQL | Apache Spark | Databricks | Distributed Computing | Business Intelligence
+- SQL | PySpark | Databricks | Distributed Databases | Business Intelligence
 
 ### Azure Data Scientist Associate - Microsoft <span>Jan. 2023</span>
 
-- TensorFlow | Distributed Computing | Databricks | MLOps | Distributed Databases
+- TensorFlow | Databricks | Data Pipelines | MLOps | Cloud Architectures | Distributed Computing
  
 ### Applied Data Science with Python Specialization - University of Michigan via Coursera <span>Nov. 2022</span>
 
-- Python | NumPy | Pandas | scikit-learn | matplotlib | Seaborn | NLTK | Network Analysis | Data Mining
+- Python | NumPy | Pandas | scikit-learn | matplotlib | Seaborn | NLTK | NetworkX | Data Mining
 
-### Data Science Professional Certificate - Harvard University via edX <span>Aug. 2022</span>
+### Data Science Professional Certificate - HarvardX via edX <span>Aug. 2022</span>
 
-- R | Tidyverse | ggplot2  | Git | Data Wrangling | Visualization | Inference | Machine Learning 
+- R | Tidyverse | ggplot2  | Git | Data Wrangling | Data Visualization | Recommender Systems
 
 ## Work Experience
 
-### Optum, Generative AI Analyst <span>Jul. 2023 - Present</span>
+### Optum - Generative AI Analyst <span>Jul. 2023 - Present</span>
 
-- Engineer a large language model to perform complex analysis by generating and executing SQL and Python
-- Implement a retrieval-augmented generation pattern to inject business segment-specific metadata and definitions
-- Analyze high dimensional text embedding with dimension reduction techniques to improve semantic comparisons
-- Test generative artificial intelligence output for veracity, quality, and safety
-- Develop a conversational Azure bot in JavaScript, deployed in a cloud environment
-- Evaluate various time series models on forecast error and anomaly detection rates for key performance indicators
-- Author press release materials, documentation, and deliver presentations to stakeholders
+- Offer self-service data analytics backed by a large language model multi-agent system performing complex analysis
+- Automate document comparison with a text embedding model to save hundreds of hours of labor annually
+- Train a state-of-the-art forecast and anomaly detection model for key performance indicators
+- Engineer machine learning models to recommend next actions for claims adjudicators
+- Evaluate artificial intelligence output for quality, veracity, and compliance with ethical standards
+- Author press release materials, document code, and present to stakeholders
 
-### Constelleum LLC, Software Developer <span>Mar. 2020 - Jul. 2023</span>
+### Constelleum LLC - Software Developer <span>Mar. 2020 - Jul. 2023</span>
 
-- Designed an accessibile multiplayer online video game written in GDScript
-- Automated testing and validation for server-side and client-side computational code
-- Analyzed event logs to identify trends and inform balanced design
+- Designed an accessible multiplayer online video game written in GDScript
+- Automated testing and validation of client and server computation
+- Analyzed event logs for trends to inform balanced game design
 
-### Employment Specialist, Stevens County DAC <span>Jan. 2022 - May 2022</span>
+### Employment Specialist - Stevens County DAC <span>Jan. 2022 - May 2022</span>
 
 - Delivered employment training and services to Stevens County residents with disabilities
 - Implemented Minnesota state policies and educated administrators and job coaches on updates
-- Crafted and executed employment plans, overseeing a team of 8 job coaches
+- Planned and executed employment program, overseeing a team of 8 job coaches
 
-### Job Coach, Stevens County DAC <span>Oct. 2021 - Jan. 2022</span>
+### Job Coach - Stevens County DAC <span>Oct. 2021 - Jan. 2022</span>
 
 - Coached 30+ individuals on job expectations and responsibilities
 - Organized and led customized enrichment activities for accessibility service recipients
