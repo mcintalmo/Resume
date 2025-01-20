@@ -36,6 +36,7 @@ Alexander welcomes opportunities to collaborate with individuals who share his v
 - [Mathematics for Machine Learning (College of London)](https://www.coursera.org/account/accomplishments/specialization/MS35RVJKU4EF)
 - [Applied Data Science with Python (University of Michigan)](https://www.coursera.org/account/accomplishments/specialization/3QYUXC7V9QQC)
 - [Data Science Professional Certificate (HarvardX)](https://credentials.edx.org/credentials/e50364179bf9497892cdc70d09c9247d/)
+- [Azure Fundamentals (Microsoft)](https://learn.microsoft.com/en-us/users/alexandermcintosh/credentials/7594860f19ad6159)
 - [SQL Basics for Data Science (University of California, Davis)](https://www.coursera.org/account/accomplishments/specialization/JTT9S6MZ66H5)
 - [CS50's Introduction to Artifical Intelligence with Python (HarvardX)](https://certificates.cs50.io/470c7962-8e89-426c-af19-9620db4217c8.pdf?size=letter)
 - [CS50's Introduction to Databases with SQL (HarvardX)](https://certificates.cs50.io/2d3266f9-880d-43db-a024-4f73f6768908.png?size=letter)
